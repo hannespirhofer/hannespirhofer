@@ -2,6 +2,6 @@
 
 My name is **Hannes** and I'm a front-end developer.
 
-- 🔭 I’m currently working on Simple CRM on Angular
-- 🌱 I’m currently learning lit-html
-- ⚡ I’m going to learn Python
+- 🔭 looking to connect with other frontend devs
+- 🌱 currently deepening my Angular Skills 
+- ⚡ going to learn Python
