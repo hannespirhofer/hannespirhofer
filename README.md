@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-My name is **Hannes** and I'm a front-end developer.
+My name is **Hannes** and I love building simple, straightforward UIs.
 
-- 🔭 looking to connect with other frontend devs
-- 🌱 currently deepening my Angular Skills 
-- ⚡ going to learn Python
+- 🌱 Angular/React/Django
+- ⚡ Python/Javascript/Typescript
